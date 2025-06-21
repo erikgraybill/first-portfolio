@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.headshot {
+    border-radius: 5pt;
+    width: 400pt;
+    height: 400;
+}
